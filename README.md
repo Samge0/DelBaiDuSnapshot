@@ -24,3 +24,7 @@ python main.py
 - 4、其他说明：
     - 2020.12.31正常运行
 
+
+### 技术交流
+- [Join Discord >>](https://discord.com/invite/eRuSqve8CE)
+- WeChat：`SamgeApp`
